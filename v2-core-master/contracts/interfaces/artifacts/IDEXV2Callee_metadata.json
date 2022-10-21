@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "sender",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount0",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bytes",
+						"name": "data",
+						"type": "bytes"
+					}
+				],
+				"name": "DEXV2Call",
+				"outputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-core-master/contracts/interfaces/IDEXV2Callee.sol": "IDEXV2Callee"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-core-master/contracts/interfaces/IDEXV2Callee.sol": {
+			"keccak256": "0x12427a9caa9fbf13f4175f9722057d73668791e9b15232dd1df91697e5ada8af",
+			"urls": [
+				"bzz-raw://07bba5f04ba83617d0e68c9a603ea922bb9bfed5aeb79d66c4ada0c5a706c648",
+				"dweb:/ipfs/QmTeRfYEjXwxG9BTcqEhifkHGPJ8o3KNwkq6pbFZbR92Ap"
+			]
+		}
+	},
+	"version": 1
+}
