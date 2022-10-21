@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-periphery-master/v2-periphery-master/contracts/libraries/DEXV2OracleLibrary.sol": "DEXV2OracleLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-periphery-master/v2-periphery-master/contracts/interfaces/IDEXV2Pair.sol": {
+			"keccak256": "0xe8af4c287e2e5b66d00ede943d081681814ea260a3b5cbc1381969cb18090ebb",
+			"urls": [
+				"bzz-raw://7702096a704613371ebc5e949eba001b0395c54f9a1354239237f1e572927698",
+				"dweb:/ipfs/QmVFAvuaiAykqbDHwL7UP7wqyrQYuY1kmr8a62jXm2DCmp"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/Babylonian.sol": {
+			"keccak256": "0xba3eb5b8b89c625726e75ca34a5375e032803f3e7a0dbb0d41ba87cd25e73ab1",
+			"urls": [
+				"bzz-raw://d5adef9f55a5a4a0b9fa473c5504d81ff5b789ebccfc80c3d30588b6c716c043",
+				"dweb:/ipfs/QmPc8fXTDcoGYSJzZbX9U5UN98qtpmTkYXzumFJ4zSb5VG"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/BitMath.sol": {
+			"keccak256": "0x803abf5eb66ab0dc7a46a9f24d9b692aa225b0f5697b7cf96953b5e6a3fe2155",
+			"urls": [
+				"bzz-raw://360d13deb7db2c43d022b015ca1eff2a0894e308ec099db1af06cef5b2020c0a",
+				"dweb:/ipfs/QmbcppKBuvyzLKx78Yo9WHLSWVeV5aYrPo1JfGbGgkTfZr"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/DEXV2OracleLibrary.sol": {
+			"keccak256": "0xe64a2f8cd786df3cd2815b06b442e7873f1d2013689315a9657eb828422e2c33",
+			"urls": [
+				"bzz-raw://56296e5ddbdeaa343557ab9346209a4f899d35c492ab25d443a3e9f00825376b",
+				"dweb:/ipfs/QmNio2YgGA8zA99skkvRGVZN4izt1ZL2SNypkFixxXe2TV"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/FixedPoint.sol": {
+			"keccak256": "0x4649f41ae691a8a68aec0d9dc328d6c37f90ca4711308c53c9c79117cf715a3e",
+			"urls": [
+				"bzz-raw://73736dd284213b99bc5ef56bf818546e3e50c745c2ca514262e3beade554fba2",
+				"dweb:/ipfs/QmUQtaBhASnkrws1qmwY47kzzVGuNaq8kCZr7R3cEwXzu3"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/FullMath.sol": {
+			"keccak256": "0xe503e81f38b24f44c345604fa15cfa7ecc9c0632079b442ac4f8d324d18a8a1c",
+			"urls": [
+				"bzz-raw://aa65b03dac6817c02f7105f0ff8500fc730912f4676aa2b2b4134f553341e093",
+				"dweb:/ipfs/QmUZLHt5wUqD8MxP4ZNwibqJB6jzgV6GeyP9ZncCTjhZrc"
+			]
+		}
+	},
+	"version": 1
+}

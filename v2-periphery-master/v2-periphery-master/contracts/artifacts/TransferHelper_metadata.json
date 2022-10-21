@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-periphery-master/v2-periphery-master/contracts/DEXV2Router02Flat.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-periphery-master/v2-periphery-master/contracts/DEXV2Router02Flat.sol": {
+			"keccak256": "0xd62270928273a3f521cecec9b0f1433b5a2c8b8efcd47c47c031e1eb310b16bc",
+			"urls": [
+				"bzz-raw://e271678aa74d010340abfacbebadf610c4c83b9eead90d86c378de57064778c0",
+				"dweb:/ipfs/QmbWiqTuhHgiQVo3V2pr5UJAhqKPSzhEga7JQscjB4kaXE"
+			]
+		}
+	},
+	"version": 1
+}

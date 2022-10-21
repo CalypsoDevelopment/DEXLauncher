@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "getExchange",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-periphery-master/v2-periphery-master/contracts/interfaces/V1/IDEXV1Factory.sol": "IDEXV1Factory"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-periphery-master/v2-periphery-master/contracts/interfaces/V1/IDEXV1Factory.sol": {
+			"keccak256": "0xb30a7d3e1ef249715f1504854e8e26aaf0d13710b17d6d9e89e0312ee8612920",
+			"urls": [
+				"bzz-raw://1dec4a35f6be226a5d89da40594539445e8acce64bf409b2416270ba33d69b8b",
+				"dweb:/ipfs/QmaAqFc7dDA1hRJraqvNnzNHA3X6fqMC4C7Y7jF5TjE6Aj"
+			]
+		}
+	},
+	"version": 1
+}

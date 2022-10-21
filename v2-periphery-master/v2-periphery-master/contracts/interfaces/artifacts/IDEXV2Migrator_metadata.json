@@ -1,0 +1,74 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "token",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amountTokenMin",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amountETHMin",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "deadline",
+						"type": "uint256"
+					}
+				],
+				"name": "migrate",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-periphery-master/v2-periphery-master/contracts/interfaces/IDEXV2Migrator.sol": "IDEXV2Migrator"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-periphery-master/v2-periphery-master/contracts/interfaces/IDEXV2Migrator.sol": {
+			"keccak256": "0x1286b22bd3ba0cc0643aff199c1fd063fdbfa68ac9d42ca0d092f6b21972cd9a",
+			"urls": [
+				"bzz-raw://8f0b2e3efd45b832392ad01b927daed5da060c232f4c5e25cf9838b3664cd409",
+				"dweb:/ipfs/Qme53csS9t4CXWnw7CcGEMYfaZLqkzzgZoKfoPgDyTJqQi"
+			]
+		}
+	},
+	"version": 1
+}

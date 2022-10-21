@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"v2-periphery-master/v2-periphery-master/contracts/libraries/DEXV2Library.sol": "DEXV2Library"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"v2-periphery-master/v2-periphery-master/contracts/interfaces/IDEXV2Pair.sol": {
+			"keccak256": "0xe8af4c287e2e5b66d00ede943d081681814ea260a3b5cbc1381969cb18090ebb",
+			"urls": [
+				"bzz-raw://7702096a704613371ebc5e949eba001b0395c54f9a1354239237f1e572927698",
+				"dweb:/ipfs/QmVFAvuaiAykqbDHwL7UP7wqyrQYuY1kmr8a62jXm2DCmp"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/DEXV2Library.sol": {
+			"keccak256": "0x035a297e07e1b26235b2abbe2957daed7d50ca1d227f095e4ff21502eac09c77",
+			"urls": [
+				"bzz-raw://22582cdfd5988f48cfb9d5770095e11dfc3221e70b164d84cc5307493662e7be",
+				"dweb:/ipfs/QmUoLg3yvspuV5pn7oFyGadUjZXLoiFBnutsQnurocCBfs"
+			]
+		},
+		"v2-periphery-master/v2-periphery-master/contracts/libraries/SafeMath.sol": {
+			"keccak256": "0x27f0ea82f879b3b01387b583e6d9d0ec858dca3b22b0aad173f8fbda06e761e1",
+			"urls": [
+				"bzz-raw://0db9cf37793eb7035f0bfced36323d240f0212150009c39a3a108701d9b50b6c",
+				"dweb:/ipfs/QmUAdiG9XNcieXkKfiMB49zQqD34FbXFE15csV2KQzwEqg"
+			]
+		}
+	},
+	"version": 1
+}
